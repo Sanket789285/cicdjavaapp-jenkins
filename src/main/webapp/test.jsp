@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>this is test for aws deploy</h1>
+<h2>finnaly it works with elastic ip</h2>
 </body>
 </html>
