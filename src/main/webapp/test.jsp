@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Services jdp file</title>
+<title>testing my aws app</title>
 </head>
 <body>
-<h1>this is services jsp file</h1>
-
+<h1>this is test for aws deploy</h1>
 </body>
 </html>
